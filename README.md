@@ -1,6 +1,12 @@
 # flutter_navigation
 
 Flutter Navigator  
+main layout component
+push
+pop
+arguments
+pushNamed
+
 
 ## Getting Started
 
