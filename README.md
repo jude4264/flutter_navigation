@@ -24,6 +24,12 @@ Push Replacement
 Push And Remove Until
 
 
+canPop()
+
+
+WillPopScope-onWillPop
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
