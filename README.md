@@ -1,11 +1,13 @@
 # flutter_navigation
 
 Flutter Navigator  
-main layout component
-push
-pop
-arguments
-pushNamed
+-main layout component
+-push
+-pop
+-arguments
+-pushNamed
+-Push Replacement
+-Push And Remove Until
 
 
 ## Getting Started
